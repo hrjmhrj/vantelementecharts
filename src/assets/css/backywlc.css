@@ -1,0 +1,21 @@
+.div-back{
+    position: absolute;
+    z-index: 9999;
+    bottom: 0;
+    width: 107px;
+    height: 294px;
+    margin: 0 0 0 30px;
+}
+.go-home{
+    width: 107px;
+    height: 107px;
+    margin: 0 0px 40px 0px;
+    background: url(../../assets/img/home.png) no-repeat;
+    background-size: 107px 107px;
+}
+.go-back{
+    width: 107px;
+    height: 107px;
+    background: url(../../assets/img/back.png) no-repeat;
+    background-size: 107px 107px;
+}
